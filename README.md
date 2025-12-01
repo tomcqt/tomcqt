@@ -8,6 +8,4 @@
 
 I like coding things.
 
-I mostly write websites and Discord bots.
-
 [Check out my website!](https://www.tomcat.sh/)
