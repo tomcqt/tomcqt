@@ -1,11 +1,7 @@
 # hi, im tomcat!
 
-
-
-[![Tomcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomcqt&show_icons=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Tomcat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomcqt&hide=lua,ruby&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tomcat&theme=transparent&hide_border=true&timezone=EST&short_numbers=true)](https://git.io/streak-stats)
-
-I like coding things.
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=tomcqt&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tomcqt&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tomcqt&layout=compact&theme=tokyonight)
 
 [Check out my website!](https://www.tomcat.sh/)
